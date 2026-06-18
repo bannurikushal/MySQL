@@ -1,0 +1,16 @@
+                                           DATA BASE
+
+
+                =>DATA = Colletion of information.
+                =>DBMS = Data Base Management System.
+                *It is a software, used to store and access the DATA in a secured way.
+
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+                                            Types of DATA BASE  
+                                            1>Relational DATA BASE
+                                            2>Non-Relational DATA BASE
+
+
+      =>Relational DATA BASE;
+                               />The Data is stored in a tabular type.
