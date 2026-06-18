@@ -14,3 +14,23 @@
 
       =>Relational DATA BASE;
                                />The Data is stored in a tabular type.
+                               * we should not count Header.
+                               
+
+                               =>Examples
+                               *MySQL
+                               *Oracle
+                               *SQL Server
+                               *Postgrese
+                               *SQL Lite
+
+            =>SQL DATA Types;
+            *Integers
+            *Float
+            *VarChar
+            *Text
+            *Date
+            *Time
+            *Date Time
+            *Boolean
+            *Blob
