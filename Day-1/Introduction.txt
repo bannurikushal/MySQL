@@ -34,3 +34,14 @@
             *Date Time
             *Boolean
             *Blob
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+
+                 =>Non-Relational DATA BASE;
+                                                *The DATA is stored in 
+                                                                         graphs,Key-values,column family,document
+                        =>Examples:
+                                     *Elastic Search
+                                     *MngoDB
+                                     *Redis
+                                     *Casandra
