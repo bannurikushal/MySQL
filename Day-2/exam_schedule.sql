@@ -1,0 +1,7 @@
+CREATE TABLE my_sql.exam_schedule(
+name VARCHAR(200),
+course VARCHAR(200),
+exam_date_time DATETIME,
+duration_in_sec INT,
+pass_percentage float
+);
